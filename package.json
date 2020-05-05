@@ -1,0 +1,12 @@
+{
+  "name": "faceit-friend-remover",
+  "version": "1.0.0",
+  "description": "Bulk remove friends from Faceit that you're not friends with on Steam",
+  "main": "index.js",
+  "repository": "https://github.com/diogotcorreia/faceit-friend-remover",
+  "author": "Diogo Correia",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
